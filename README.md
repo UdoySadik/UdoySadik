@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=40&lines=Competitive+Hackathon+Enthusiast+%F0%9F%8F%86;Machine+Learning+%26+Data+Science+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="typing-svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=40&lines=Competitive+Hackathon+Enthusiast;Machine+Learning+%26+Data+Science;Always+Learning,+Always+Building" alt="Typing SVG"/>
 
 </div>
 
@@ -168,10 +168,7 @@
 
 <a href="https://github.com/UdoySadik/EduGuard">
 <img height="165" src="https://github-readme-stats-eta-ochre-39.vercel.app/api/pin/?username=UdoySadik&repo=EduGuard&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true"/>
-</a>
-<a href="https://github.com/UdoySadik/REPLACE_WITH_REPO_NAME">
-<img height="165" src="https://github-readme-stats-eta-ochre-39.vercel.app/api/pin/?username=UdoySadik&repo=REPLACE_WITH_REPO_NAME&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true"/>
-</a>
+
 
 </div>
 
