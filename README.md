@@ -132,11 +132,23 @@
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/UdoySadik/UdoySadik/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
+
+</div>
+
+> ⚠️ This one needs a one-time setup — see `snake.yml` below. It won't render until you add that workflow file and it runs once.
+
+<br/>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=UdoySadik&theme=radical&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=UdoySadik&theme=radical&no-frame=true&row=2&column=4"/>
 
 </div>
 
