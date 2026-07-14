@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:1a1a2e,100:000000&height=220&section=header&text=Md.%20Farhan%20Sadik%20Udoy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=D8B4FE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,100:000000&height=220&section=header&text=Md.%20Farhan%20Sadik%20Udoy&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=UdoySadik&label=Profile%20Views&color=6A0DAD&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/UdoySadik?label=Followers&style=for-the-badge&color=1a1a2e&labelColor=000000" alt="followers"/>
