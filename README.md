@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=UdoySadik&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9"/>
+<img height="200" src="https://github-readme-stats-eta-ochre-39.vercel.app/api?username=UdoySadik&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9"/>
 <img height="200" src="https://streak-stats.demolab.com/?user=UdoySadik&hide_border=true&background=0D1117&ring=A855F7&fire=8A2BE2&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6B7280"/>
 
 </div>
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdoySadik&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+<img src="https://github-readme-stats-eta-ochre-39.vercel.app/api/top-langs/?username=UdoySadik&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
 
 </div>
 
@@ -139,8 +139,6 @@
 <img src="https://raw.githubusercontent.com/UdoySadik/UdoySadik/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
 
 </div>
-
-> ⚠️ This one needs a one-time setup — see `snake.yml` below. It won't render until you add that workflow file and it runs once.
 
 <br/>
 
@@ -169,10 +167,10 @@
 <div align="center">
 
 <a href="https://github.com/UdoySadik/EduGuard">
-<img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=UdoySadik&repo=EduGuard&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-eta-ochre-39.vercel.app/api/pin/?username=UdoySadik&repo=EduGuard&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true"/>
 </a>
 <a href="https://github.com/UdoySadik/REPLACE_WITH_REPO_NAME">
-<img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=UdoySadik&repo=REPLACE_WITH_REPO_NAME&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-eta-ochre-39.vercel.app/api/pin/?username=UdoySadik&repo=REPLACE_WITH_REPO_NAME&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true"/>
 </a>
 
 </div>
