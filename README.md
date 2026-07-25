@@ -162,19 +162,6 @@
 
 <br/>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/UdoySadik/EduGuard">
-<img height="165" src="https://github-readme-stats-eta-ochre-39.vercel.app/api/pin/?username=UdoySadik&repo=EduGuard&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&hide_border=true"/>
-
-
-</div>
-
-> ⚠️ These cards pull live data from your actual repos. Make sure `EduGuard` is pushed and public, and swap `REPLACE_WITH_REPO_NAME` for your next project (e.g. your hackathon IoT repo).
-
-<br/>
 
 ## 🤝 Let's Connect
 
